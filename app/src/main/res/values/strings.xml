@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Carta de presentacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="primer_textview">Ricardo Villeda</string>
+    <string name="insta_user">insta</string>
+    <string name="facebook_user">Facebook</string>
+</resources>
